@@ -1,4 +1,4 @@
-# Farmassist Firebase
+# Plant Disease Detection Firebase
 
 This repository contains Firebase backend services for Farmassist app, which is implemented using Cloud Functions and Firebase Cloud Messaging (FCM).
 
